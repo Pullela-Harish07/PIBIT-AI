@@ -1,0 +1,112 @@
+{
+  "personal_information": {
+    "name": "Pullela Harish Chowdary",
+    "location": "Chilakaluripet, Andhra Pradesh, 522616",
+    "phone": "+91-7013689792",
+    "email": "harishchowdary616@gmail.com",
+    "linkedin": "https://linkedin.com/in/pullela-harish07/",
+    "github": "https://github.com/Pullela-Harish07"
+  },
+  "projects": [
+    {
+      "name": "Disease prediction based on disease symptoms",
+      "tech": ["Machine Learning", "Power BI", "Rapid Miner"],
+      "duration": "Nov 2023 - Dec 2023",
+      "description": "Utilized ML models like supervised and unsupervised algorithms for classification and prediction. Used Power BI for analysis and Rapid Miner for prediction tasks. Constructed a classification and prediction model on disease prediction dataset, predicting diseases based on symptoms."
+    },
+    {
+      "name": "Machine Learning Models and Hypothesis Testing on 120 Years of Olympic History",
+      "tech": ["Python", "R programming", "SVM", "Logistic regression", "DT", "RF", "SPSS"],
+      "duration": "Oct 2023 - Dec 2023",
+      "description": "Utilized ML models for classification and prediction, and SPSS for hypothesis testing with parametric and non-parametric tests. Constructed classification, regression, and hypothesis testing models on Olympic history dataset, predicting medals and classifying data based on Summer and Winter Olympics, and analyzing relations between age, weight, and height of athletes."
+    },
+    {
+      "name": "Machine Learning Models and Hypothesis Testing on 120 Years of Olympic History",
+      "tech": ["Excel", "Tableau", "Power BI", "Python", "NumPy", "Matplotlib", "Pandas", "Seaborn", "R", "GGPLOT", "PLOTLY"],
+      "duration": "Mar 2023 - Nov 2023",
+      "description": "Constructed a dashboard on 120 years of Olympic history using tools like Tableau and Power BI. Provided insights on records, facts, and trends of all Summer and Winter Olympics since 1896."
+    },
+    {
+      "name": "Bank Management System",
+      "tech": ["Java Programming"],
+      "duration": "Jun 2022 - July 2022",
+      "description": "Developed a system providing customers with functionalities to check balance, deposit/withdraw cash, and view transaction history, along with additional features not found in conventional banking software."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Java Full Stack (Winter Placement Training)",
+      "provider": "Cipher Schools",
+      "duration": "Jan - Feb 2024"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "provider": "Coursera (DeepLearning.AI)",
+      "duration": "Aug - Nov 2023"
+    },
+    {
+      "name": "Data Visualization with Tableau Specialization",
+      "provider": "Coursera (UCDAVIS University)",
+      "duration": "Feb - May 2023"
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "provider": "Geeks – for – Geeks (Self-paced course)",
+      "duration": "May - July 2022"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Research Publications",
+      "publications": [
+        {
+          "title": "From Athens to Rio: A Comprehensive Data Analysis and Visualization of 120 Years of Olympic History",
+          "conference": "IEEE ICRITO Conference",
+          "published": "May 2024",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10522373"
+        },
+        {
+          "title": "Classification and Evaluation of Indian Faces Using Machine Learning Models",
+          "conference": "IEEE IATMSI Conference",
+          "published": "Apr 2024",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10502488"
+        },
+        {
+          "title": "A Case Study of Big Data Processing in the Cloud Environments with Insights into Advantages, Tools, and Techniques",
+          "conference": "IEEE CONFLUENCE Conference",
+          "published": "Mar 2024",
+          "link": "https://ieeexplore.ieee.org/abstract/document/10463294"
+        }
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C++", "Java", "Python", "R programming"],
+    "technologies_frameworks": ["HTML and CSS", "Spring Boot", "Machine Learning Frameworks", "Encryption and Decryption"],
+    "tools_platforms": ["MySQL", "Tableau", "Power BI", "Rapid Miner", "SPSS", "Orange Software", "Microsoft Excel", "Alteryx"],
+    "soft_skills": ["Problem-Solving Skills", "Team Player", "Team Building", "Leadership", "Time Management", "Critical Thinking"]
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University, Punjab",
+      "degree": "Bachelor of Technology + Master of Technology- Computer Science and Engineering",
+      "cgpa": 8.53,
+      "location": "Jalandhar, Punjab",
+      "duration": "Since 2020"
+    },
+    {
+      "institution": "Sri Chaitanya College",
+      "degree": "12th (Intermediate)",
+      "percentage": 96,
+      "location": "Vijayawada, Andhra Pradesh",
+      "duration": "2018 – 2020"
+    },
+    {
+      "institution": "Sri Chaitanya School",
+      "degree": "10th (SSC)",
+      "cgpa": 10,
+      "location": "Chilakaluripet, Andhra Pradesh",
+      "duration": "2017 – 2018"
+    }
+  ]
+}
